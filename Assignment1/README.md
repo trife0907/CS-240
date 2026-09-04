@@ -27,6 +27,12 @@ Decimal -> binary: ~4.2B (largest supported unsigned value)
 ## Image Reader
 The image reader ([image_reader.py](https://github.com/trife0907/CS-240/blob/main/Assignment1/image_reader.py)) reads an image and prints out its pixel values in the image's dimensions.
 
+Requires the Pillow dependency. Install it by running:
+
+```bash
+pip install pillow
+```
+
 ### Examples
 Input image
 
@@ -39,6 +45,12 @@ Output text
 
 ## Image Writer
 The image writer ([image_writer.py](https://github.com/trife0907/CS-240/blob/main/Assignment1/image_writer.py)) reads in pixel values from a text file and generates an image.
+
+Requires the Pillow dependency. Install it by running:
+
+```bash
+pip install pillow
+```
 
 ### Examples
 Input pixels
