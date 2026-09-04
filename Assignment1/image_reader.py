@@ -1,4 +1,5 @@
-# Write a program that reads an image and prints its pixel values.
+# 3. Write a program that reads an image and prints its pixel values.
+
 # First, pip install pillow
 from PIL import Image
 
