@@ -1,4 +1,4 @@
-# Build a number-base converter supporting binary, decimal, octal, and hexadecimal.
+# 2. Build a number-base converter supporting binary, decimal, octal, and hexadecimal.
 
 # Define bases allowed for conversion
 bases = ["binary", "decimal", "octal", "hex"]
