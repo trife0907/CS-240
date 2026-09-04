@@ -1,4 +1,4 @@
-# Build an ASCII-to-decimal converter
+# 1. Build an ASCII-to-decimal converter
 
 # Prompt user for input
 ascii = input("Enter ASCII: ")
