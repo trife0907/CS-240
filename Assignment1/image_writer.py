@@ -1,6 +1,8 @@
 # 4. Write a program that consumes pixel values and creates an image.
+
 from PIL import Image
 
+# Converts pixel code value back into RGB value
 def convert(code):
     if code == "B": return (153, 217, 234)
     elif code == "P": return (255, 174, 201)
