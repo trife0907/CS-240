@@ -10,3 +10,6 @@ Simple blackjack, dealer stands on 17 (soft or standard). No splitting or doubli
 
 ## Custom game: Hidden bomb
 There is a hidden bomb underneath one of the 9 tiles, uncover 5 safe tiles to win. Same GUI as tic-tac-toe.
+
+### AI Disclosure
+Used GPT-6.1 Sol to help with planning, initial code and GUI creation.
